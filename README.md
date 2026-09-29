@@ -5,7 +5,7 @@ tomorrow, based on today's weather conditions. Built as a hands-on learning
 project covering the full ML lifecycle — from raw data to a deployed,
 working product.
 
-**Live demo:** _add your deployed link here_
+**Live demo:** 
 
 <img width="1283" height="1037" alt="Screenshot 2026-09-29 164950" src="https://github.com/user-attachments/assets/012fac7c-4c05-414a-b6d3-23de1e789589" />
 
@@ -95,4 +95,4 @@ weather-prediction-app/
 ```
 
 ---
-Built by Pramuditha as a personal learning project — not a class assignment.
+Built by Pramuditha as a personal learning project
